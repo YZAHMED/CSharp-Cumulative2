@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Humber-2025\\C#\\CSharp-Cumulative2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|d:\\humber-2025\\c#\\csharp-cumulative2\\cumulative01\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|solutionrelative:cumulative01\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherPageController.cs",
+              "DocumentMoniker": "D:\\Humber-2025\\C#\\CSharp-Cumulative2\\Cumulative01\\Controllers\\TeacherPageController.cs",
+              "RelativeDocumentMoniker": "Cumulative01\\Controllers\\TeacherPageController.cs",
+              "ToolTip": "D:\\Humber-2025\\C#\\CSharp-Cumulative2\\Cumulative01\\Controllers\\TeacherPageController.cs",
+              "RelativeToolTip": "Cumulative01\\Controllers\\TeacherPageController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:13:29.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
